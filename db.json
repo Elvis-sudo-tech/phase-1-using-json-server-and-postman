@@ -1,7 +1,9 @@
 {
-    "articles": [
-      { "id": 1, "title": "Example Article", "content": "This is an example." },
-      { "id": 2, "title": "Second Article", "content": "This is also an example." }
+    "posts": [
+        { "id": 1, "title": "Hello World", "author": "Elvis" },
+        { "id": 2, "title": "Learning JSON Server", "author": "Mbugua" }
     ]
-  }
-  
+    
+    
+}
+
